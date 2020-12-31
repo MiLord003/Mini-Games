@@ -1,0 +1,38 @@
+E:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Mini car games\Mini car games\bin\Debug\Mini car games.exe.config
+E:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Mini car games\Mini car games\bin\Debug\Mini car games.exe
+E:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Mini car games\Mini car games\bin\Debug\Mini car games.pdb
+E:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Mini car games\Mini car games\obj\Debug\Mini car games.csprojAssemblyReference.cache
+E:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Mini car games\Mini car games\obj\Debug\Mini_car_games.Form1.resources
+E:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Mini car games\Mini car games\obj\Debug\Mini_car_games.Properties.Resources.resources
+E:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Mini car games\Mini car games\obj\Debug\Mini car games.csproj.GenerateResource.cache
+E:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Mini car games\Mini car games\obj\Debug\Mini car games.exe
+E:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Mini car games\Mini car games\obj\Debug\Mini car games.pdb
+E:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Mini car games\Mini car games\obj\Debug\Mini car games.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini car games.csprojAssemblyReference.cache
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini_car_games.Form1.resources
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini_car_games.Properties.Resources.resources
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini car games.csproj.GenerateResource.cache
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini car games.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini car games.exe
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini car games.pdb
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\bin\Debug\Mini car games.exe.config
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\bin\Debug\Mini car games.exe
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\bin\Debug\Mini car games.pdb
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini_car_games.Form2.resources
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini_car_games.Form3.resources
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini_car_games.Form4.resources
+C:\Users\ARTEM\Desktop\Mini Games\Mini car games\obj\Debug\Mini_car_games.Form5.resources
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\bin\Debug\Mini car games.exe.config
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\bin\Debug\Mini car games.exe
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\bin\Debug\Mini car games.pdb
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini car games.csprojAssemblyReference.cache
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini_car_games.Form1.resources
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini_car_games.Form2.resources
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini_car_games.Form3.resources
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini_car_games.Form4.resources
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini_car_games.Form5.resources
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini_car_games.Properties.Resources.resources
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini car games.csproj.GenerateResource.cache
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini car games.csproj.CoreCompileInputs.cache
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini car games.exe
+D:\Папки рабочего стола\Артем\1 Информатика Реальная школа\Курсовые работы 2019-20 гг\Mini Games C# 20.05.20 г\Mini car games\obj\Debug\Mini car games.pdb

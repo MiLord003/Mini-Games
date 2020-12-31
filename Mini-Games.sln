@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini car games", "Mini car games\Mini car games.csproj", "{B86AA5F4-8083-4228-A1C8-4149E653B2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86AA5F4-8083-4228-A1C8-4149E653B2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86AA5F4-8083-4228-A1C8-4149E653B2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86AA5F4-8083-4228-A1C8-4149E653B2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86AA5F4-8083-4228-A1C8-4149E653B2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6103A193-01C9-4306-9DD3-88558DC0DE0A}
+	EndGlobalSection
+EndGlobal
